@@ -9,7 +9,7 @@ class App extends Component {
       <div>
         <h1>main page</h1>
         
-        <Header />
+        <Header text={"Header"}/>
         <Body />
 
       </div>
