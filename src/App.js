@@ -9,8 +9,8 @@ class App extends Component {
       <div>
         <h1>main page</h1>
         
-        <Header text={"Header"}/>
-        <Body />
+        <Header title={"Header"}/>
+        <Body firstname={"Srijana"} lastname={"Dhami"}/>
 
       </div>
     );
